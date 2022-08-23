@@ -1,2 +1,3 @@
-# fc_golang_calc
+# GO Lang
 Calculator - Go Lang testing
+CI/CD testing
